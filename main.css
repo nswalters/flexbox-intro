@@ -44,3 +44,14 @@ footer {
   left: 0;
   bottom: 0;
 }
+
+.wilds {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.wilds img {
+  height: 250px;
+  margin: 50px;
+}
