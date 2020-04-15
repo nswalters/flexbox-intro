@@ -55,3 +55,14 @@ footer {
   height: 250px;
   margin: 50px;
 }
+
+.fuzzies {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.fuzzies img {
+  height: 250px;
+  margin: 50px;
+}
